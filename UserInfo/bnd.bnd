@@ -1,0 +1,4 @@
+Bundle-Name: UserInfo
+Bundle-SymbolicName: UserInfo
+Bundle-Version: 1.0.0
+Export-Package: UserInfo.constants
